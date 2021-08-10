@@ -8,3 +8,6 @@ Part 3 of my graphics engine updates. Repo for updating and showcasing new featu
 - Object color picker implemented
 
 ![UI_Design](https://user-images.githubusercontent.com/54217603/128939347-bf8d895f-ebba-4c82-94bb-deba6e91a5d8.png)
+
+![First_Blockout](https://user-images.githubusercontent.com/54217603/128942571-8310387c-2e36-4790-bced-baaa7573b162.png)
+
