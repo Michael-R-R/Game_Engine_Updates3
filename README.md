@@ -11,3 +11,7 @@ Part 3 of my graphics engine updates. Repo for updating and showcasing new featu
 
 ![First_Blockout](https://user-images.githubusercontent.com/54217603/128942571-8310387c-2e36-4790-bced-baaa7573b162.png)
 
+### UPDATE_12
+- Implemented Bullet physics library into the engine
+
+![QtGL_NewPhysics](https://user-images.githubusercontent.com/54217603/129428477-14f2849c-6ffb-45c6-8237-785af69c280b.gif)
