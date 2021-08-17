@@ -15,3 +15,9 @@ Part 3 of my graphics engine updates. Repo for updating and showcasing new featu
 - Implemented Bullet physics library into the engine
 
 ![QtGL_NewPhysics](https://user-images.githubusercontent.com/54217603/129428477-14f2849c-6ffb-45c6-8237-785af69c280b.gif)
+
+### UPDATE_13:
+- Implemented raycasting, which will allow the use of object selection through clicking
+
+![QtGL_Raycasting](https://user-images.githubusercontent.com/54217603/129811765-cf7dabbc-442e-4fb6-b9c1-fe71fd632083.gif)
+
