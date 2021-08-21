@@ -23,3 +23,8 @@ Part 3 of my graphics engine updates. Repo for updating and showcasing new featu
 
 ![QtGL_ObjectSelection](https://user-images.githubusercontent.com/54217603/129816861-37044974-c6e6-4c56-b050-563ce78156e6.gif)
 
+### UPDATE_14:
+- Simple object highlighting implemented
+
+![QtGL_ObjectHighlighting](https://user-images.githubusercontent.com/54217603/130336978-eb09feed-d92f-4dd9-8914-2e2fb4d801d3.gif)
+
