@@ -26,3 +26,9 @@ Part 3 of my graphics engine updates. Repo for updating and showcasing new featu
 
 ![QtGL_ObjectHighlighting](https://user-images.githubusercontent.com/54217603/130336978-eb09feed-d92f-4dd9-8914-2e2fb4d801d3.gif)
 
+### UPDATE_15:
+- Beginning to implement basic lighting methods.
+- Each popular lighting type will be implemented and easy to integrate into the scene
+
+![Basic_Lighting_03](https://user-images.githubusercontent.com/54217603/131050179-c5ba0f41-a9af-42d4-a5c3-44b89637db11.png)
+
