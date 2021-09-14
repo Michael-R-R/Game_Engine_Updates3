@@ -1,6 +1,6 @@
 # Game_Engine_Updates3
 
-### *All further updats will be posted to my website: https://codecreatehub.wordpress.com/ *
+### *All further updates will be posted to my website: https://codecreatehub.wordpress.com/ *
 
 Part 3 of my graphics engine updates. Repo for updating and showcasing new features in my graphics engine. Source code remains private. This project is mainly for education purposes. Any graphics engine names are just place holders.
 
